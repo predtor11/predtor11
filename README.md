@@ -1,6 +1,4 @@
 <h2 align="left">Hi 👋! My name is Jayesh Dubey and I'm a student @ VIT Bhpal University.</h2>
-<img src="https://w0.peakpx.com/wallpaper/651/897/HD-wallpaper-lofi-cool-thumbnail.jpg" alt=”my banner”>
-
 
 ###
 
