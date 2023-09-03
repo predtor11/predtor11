@@ -45,7 +45,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/predtor11/predtor11/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
