@@ -122,9 +122,9 @@
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/predtor11/predtor11/output/dist/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/predtor11/predtor11/output/dist/snake.svg"/>
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/predtor11/predtor11/output/dist/snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/predtor11/predtor11/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/predtor11/predtor11/output/snake.svg"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/predtor11/predtor11/output/snake.svg"/>
 </picture>
 
 ---
