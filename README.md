@@ -15,7 +15,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Studying at **VIT Bhopal University**
+- 🎓 **@ IIT Kharagpur**
 - 🔭 Currently working on **ML & Backend projects**
 - 🌱 Learning **Deep Learning, System Design & Cloud**
 - 💬 Ask me about **Python, Machine Learning, or Backend APIs**
